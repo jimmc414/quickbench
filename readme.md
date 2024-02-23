@@ -28,6 +28,7 @@ This Python script benchmarks the performance of IO (Input/Output), CPU (Central
 ```bash
 python benchmark_tool.py
 
+## Example
 
 ![image](https://github.com/jimmc414/quickbench/assets/6346529/9792b10d-f5a9-48d4-90a2-cc9ffc12d1d2)
 
