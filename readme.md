@@ -1,6 +1,6 @@
 # Benchmarking Tool for IO, CPU, and Memory
 
-This Python program is designed to benchmark the performance of IO, CPU, and memory operations on your system. It generates a large file, copies this file, and measures the performance of these operations.
+Python script is to benchmark the performance of IO, CPU, and memory operations on a machine.  Generates a large file, copies this file, and measures the performance of these operations.  Provides a score for system comparison.
 
 ## Features
 
@@ -26,7 +26,7 @@ python benchmark_tool.py
 
 # Benchmarking Tool for IO, CPU, and Memory
 
-This Python program is designed to benchmark the performance of IO, CPU, and memory operations on your system. It generates a large file, copies this file, and measures the performance of these operations.
+This Python tool is designed to benchmark the performance of IO, CPU, and memory operations on your system. It generates a large file, copies this file, and measures the performance of these operations.
 
 ## Features
 
